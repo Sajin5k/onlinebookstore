@@ -23,7 +23,7 @@
 - Select Books Quantity.
 - Buy Books.
 - Get Payment Receipt.
-### Hello fork
+### Hello forks
 ### Technologies used:-
 1. Front-End Development:
 - Html.
